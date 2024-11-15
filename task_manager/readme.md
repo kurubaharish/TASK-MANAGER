@@ -31,7 +31,7 @@ To run the application, follow these steps:
 - Save tasks to a JSON file and load them at startup.
 
 ## GitHub Repository
-You can find the source code and documentation in the GitHub repository: - GitHub Repository: [Your GitHub Repo](<your-github-repo-url>)
+You can find the source code and documentation in the GitHub repository: - GitHub Repository: 
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for discussion.
