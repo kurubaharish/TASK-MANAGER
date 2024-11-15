@@ -31,7 +31,7 @@ To run the application, follow these steps:
 - Save tasks to a JSON file and load them at startup.
 
 ## GitHub Repository
-You can find the source code and documentation in the GitHub repository: - GitHub Repository: 
+You can find the source code and documentation in the GitHub repository: - GitHub Repository: https://github.com/kurubaharish/TASK-MANAGER.git
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for discussion.
